@@ -29,7 +29,7 @@
     "php": ">=7.0",
 
     "symfony/process": "^3|^4|^5",
-    "wrench/wrench": "^2.0",
+    "wrench/wrench": "^3.0",
     "symfony/filesystem": "^3|^4|^5",
     "psr/log": "^1.0",
     "apix/log": "^1.2",
